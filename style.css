@@ -116,3 +116,6 @@ div.maps > iframe{
     left: 5%;
     width:50% ;
     height:50% ;
+footer{
+    background-color: red;
+}
