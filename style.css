@@ -61,12 +61,12 @@ main{
     min-width: 462px;
     padding: 10px;
     margin: auto;
-    text-align: justify;
+    text-align: left;
    
 }
 article{
     text-align: right;
- 
+    
 }
 main > h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -112,6 +112,21 @@ p{
     text-indent: 17px;
     text-align: justify;   
 } 
+div.maps{
+    background-color: var(--cor4);
+    margin-bottom: 20px;
+    margin:0px -30px 30px -30px;
+    padding: 20px;
+    padding-bottom: 59.5%;
+    position: relative;
+}
+div.maps > iframe{
+    position: absolute;
+    top:5% ;
+    left: 5%;
+    width:50% ;
+    height:50% ;
+}   
 footer{
     font-family: monospace;
     background-color:rgba(236, 0, 0, 0.959);
