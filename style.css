@@ -42,7 +42,9 @@ nav > a{
     color: rgb(8, 8, 8);
     transition-duration: .5s;
 }
-
+article{
+    text-align: right;
+    margin-bottom: -30px;
 
 body{
     background-color: #f2e5293d;
