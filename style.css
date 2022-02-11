@@ -50,8 +50,7 @@ body{
     background-color: #f2e5293d;
 }
 main{
-    min-width: 300px;
-    max-width: 1000px;
+    width: 900px;
     padding: 10px;
     margin: auto;
     margin-bottom: 30px;
