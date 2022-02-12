@@ -16,7 +16,7 @@
 */
 
 header > img {
-    width: 100%;
+    width: 101%;
     margin: -5px;
 }
 nav{
@@ -117,6 +117,24 @@ div.maps > iframe{
     left: 5%;
     width:50% ;
     height:50% ;
+}
 footer{
     background-color: red;
+}
+footer > p{
+    color: rgba(255, 255, 0, 0.945);
+    text-align: center;  
+    font-size: 14px;
+}
+footer > p > a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer > p > a:hover{
+    background-color: black;
+    color: red;
+    border-radius: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
