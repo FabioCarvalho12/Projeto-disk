@@ -1,6 +1,8 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-@import url('https://fonts.googleapis.com/css2? family= Source+Serif+4:wght@200 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
 
 
 
@@ -62,8 +64,8 @@ main{
    
 }
 main > h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 24px;
+    font-family: 'Cormorant Garamond', cursiva;
+    font-size: 2em;
     font-weight: bolder;
     margin: 20px;
     text-align: justify;
@@ -117,8 +119,8 @@ div.maps > iframe{
     position: absolute;
     top:5% ;
     left: 5%;
-    width:70% ;
-    height:70% ;
+    width:60% ;
+    height:60% ;
 }
 footer{
     background-color: red;
